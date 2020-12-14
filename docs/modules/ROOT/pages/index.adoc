@@ -1,0 +1,8 @@
+= Index
+// Settings
+:idprefix:
+:idseparator: -
+
+This is the index page of mock-frontend-service.
+
+Version *{page-component-version}*.

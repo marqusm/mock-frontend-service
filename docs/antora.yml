@@ -1,0 +1,4 @@
+name: mock-frontend-service
+version: '1.0'
+nav:
+- modules/ROOT/nav.adoc
